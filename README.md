@@ -1,5 +1,5 @@
 - 👋 Hello
--  I’m interested in Math, Cryptography and AI.
+-  I’m interested in Mathematics, Cryptography and AI.
 - 📫 How to reach me: crk2357@163.com
 
 
