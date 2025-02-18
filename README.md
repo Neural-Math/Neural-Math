@@ -1,6 +1,5 @@
-- 👋 Hi
+- 👋 Hello
 -  I’m interested in Math, Cryptography and AI.
--  I’m currently a PhD student.
 - 📫 How to reach me: crk2357@163.com
 
 
